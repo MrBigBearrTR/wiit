@@ -1,1 +1,1 @@
-Yeni bir proje. 
+Yeni bir proje.  d
